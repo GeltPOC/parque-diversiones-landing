@@ -40,8 +40,8 @@ export default function Navbar({ onBuyTicket }: NavbarProps) {
               🎡
             </div>
             <span className="text-xl font-black tracking-tight">
-              <span className="text-yellow-400">Fun</span>
-              <span className="text-orange-500">World</span>
+              <span className="text-yellow-400">Gelt</span>
+              <span className="text-orange-500">Landia</span>
             </span>
           </a>
 

@@ -73,13 +73,7 @@ export default function HeroSection({ onBuyTicket }: HeroProps) {
               filter: 'drop-shadow(0 0 30px rgba(249,115,22,0.5))',
             }}
           >
-            FunWorld
-          </span>
-          <span
-            className="block text-white text-4xl sm:text-5xl lg:text-7xl mt-2"
-            style={{ textShadow: '0 0 40px rgba(168,85,247,0.6)' }}
-          >
-            Park
+            GeltLandia
           </span>
         </h1>
 
