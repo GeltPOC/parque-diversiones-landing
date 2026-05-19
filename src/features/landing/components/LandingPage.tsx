@@ -5,6 +5,7 @@ import Navbar from './Navbar'
 import HeroSection from './HeroSection'
 import AttractionsSection from './AttractionsSection'
 import PricingSection from './PricingSection'
+import ParkMapSection from './ParkMapSection'
 import GallerySection from './GallerySection'
 import ScheduleSection from './ScheduleSection'
 import LocationSection from './LocationSection'
@@ -20,6 +21,7 @@ export default function LandingPage() {
       <Navbar onBuyTicket={() => setShowModal(true)} />
       <HeroSection onBuyTicket={() => setShowModal(true)} />
       <AttractionsSection />
+      <ParkMapSection />
       <PricingSection onBuyTicket={() => setShowModal(true)} />
       <GallerySection />
       <ScheduleSection />
