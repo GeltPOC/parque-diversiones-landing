@@ -19,6 +19,7 @@ export default function Navbar({ onBuyTicket }: NavbarProps) {
   const links = [
     { label: 'Atracciones', href: '#atracciones' },
     { label: 'Mapa del Parque', href: '#mapa-parque' },
+    { label: 'Restaurantes', href: '#restaurantes' },
     { label: 'Precios', href: '#precios' },
     { label: 'Galería', href: '#galeria' },
     { label: 'Horarios', href: '#horarios' },
